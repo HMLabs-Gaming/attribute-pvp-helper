@@ -1,5 +1,7 @@
 # Attribute PVP Helper (Reforged)
 
+[![GitHub](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg)](https://github.com/HMLabs-Gaming/attribute-pvp-helper)
+
 A client-side PvP helper for Minecraft 26.2 (Fabric). This is my own continuation of the original [Attribute PVP Helper](https://modrinth.com/project/D7LBHzLK) by ViratS-best, updated to Minecraft 26.2, Java 25 and renamed to `attribute-pvp-helper-reforged`.
 
 All features run locally on your client. The mod only registers a few no-op lifecycle hooks on the server side; it adds no new blocks, items or commands.
